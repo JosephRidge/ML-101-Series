@@ -28,3 +28,6 @@
 
 ## Finally:
 - Create a `.gitignore` file : it makes sure that you only version control what is meant to be version controlled
+
+
+- install `scikit-learn`: `pip install -U scikit-learn` (make sure your environment is activated)
