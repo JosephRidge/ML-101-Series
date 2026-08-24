@@ -31,3 +31,9 @@
 
 
 - install `scikit-learn`: `pip install -U scikit-learn` (make sure your environment is activated)
+
+- install seaborn: `pip install seaborn`
+
+
+## Useful links:
+[Scatter plot with seaborn](https://seaborn.pydata.org/tutorial/relational.html)
