@@ -35,5 +35,9 @@
 - install seaborn: `pip install seaborn`
 
 
+## Linear Regression
+![alt text](image.png)
+
+
 ## Useful links:
 [Scatter plot with seaborn](https://seaborn.pydata.org/tutorial/relational.html)
