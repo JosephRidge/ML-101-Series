@@ -41,3 +41,4 @@
 
 ## Useful links:
 [Scatter plot with seaborn](https://seaborn.pydata.org/tutorial/relational.html)
+[Elcit Linear regressoin assumptions research](https://elicit.com/find-papers/fbc0f128-e3bd-4207-ba5c-5d0ae1df52ac)
