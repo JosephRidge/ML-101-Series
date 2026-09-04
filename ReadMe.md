@@ -46,7 +46,7 @@
 
 <details>
 <summary>Class Visuals</summary>
-![alt text](image-1.png)
+![alt text](screenshots/decisionTrees.png)
 </details>
 
 <details>
