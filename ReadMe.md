@@ -196,6 +196,18 @@ underfitting  <─────────────────────�
 </details>
 
 
+<hr>
+<hr>
+
+## Random Forest 
+<details>
+<summary>Class Visuals</summary>
+![alt text](screenshots/rf_1.png)
+<!-- 
+![alt text](screenshots/decisionTrees.png) -->
+
+</details>
+
 ## Useful links:
 [Scatter plot with seaborn](https://seaborn.pydata.org/tutorial/relational.html)
 [Elcit Linear regressoin assumptions research](https://elicit.com/find-papers/fbc0f128-e3bd-4207-ba5c-5d0ae1df52ac)
