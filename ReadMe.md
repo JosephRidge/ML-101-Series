@@ -212,6 +212,7 @@ underfitting  <─────────────────────�
 ## XG-BOOST
 
 [Library](https://xgboost.readthedocs.io/en/release_3.2.0/index.html)
+[Fundamental](https://xgboost.readthedocs.io/en/release_3.2.0/tutorials/model.html)
 
 ## Useful links:
 [Scatter plot with seaborn](https://seaborn.pydata.org/tutorial/relational.html)
